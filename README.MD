@@ -1,4 +1,4 @@
-# \*Bankist Application\*\*
+# Bankist Application
 
 ## Overview
 
@@ -7,7 +7,7 @@ Game set for player to reach score of 100 points before opponent by holding out 
 
 ## Flowchart
 
-![FLowchart](<(Bankist-flowchart.png)>)
+![FLowchart](Bankist-flowchart.png)
 
 ## Links
 
